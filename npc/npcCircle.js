@@ -1,0 +1,7 @@
+class NpcCircle
+{
+    constructor()
+    {
+
+    }
+}
